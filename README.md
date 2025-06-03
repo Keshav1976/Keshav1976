@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Keshav Bindlish
 
-### 🎓 Computer Science & Design Senior @ IIIT Delhi (2022–2026)
+#### 🎓 Computer Science & Design Senior @ IIIT Delhi (2022–2026)
 
 ---
 
