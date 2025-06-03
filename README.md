@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Keshav Bindlish
+Computer Science & Design Senior @ IIIT Delhi
 
-<!--
-**Keshav1976/Keshav1976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💡 About Me
+🎓 I'm a CS undergrad at IIIT Delhi (2022–2026), passionate about problem-solving, software development, and collaborative teamwork.
+💻 Skilled in C/C++, Java, Python, HTML, and well-versed in DSA and OOP concepts.
+🧰 Tools I use: VS Code, IntelliJ, MySQL, Git, GitHub, Adobe Illustrator, Figma, Miro
+🌱 Currently learning: Cloud Computing
+🔍 Seeking opportunities to learn, contribute, and grow in the tech industry.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🧠 Skills
+Languages: C/C++, Python, Java, HTML
+Core: Data Structures & Algorithms, OOP, DBMS, Web Development
+Tools: VS Code, IntelliJ, MySQL, Git, GitHub, Figma, Illustrator
+Soft Skills: Team collaboration, task management, problem-solving
